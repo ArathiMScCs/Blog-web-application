@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This blog application is a content management platform designed with an admin-controlled posting system. Only the admin has the ability to create, edit, and delete blog posts, ensuring centralised content management and quality control. The application includes a dedicated admin dashboard that provides an overview of all posts, user activities, and platform statistics. It features categories focused on Full Stack Development and Data Science, offering specialised content for developers and data enthusiasts. User interactions are managed through a signup system, where users can only comment on posts after creating an account, promoting a secure and engaging environment for community discussions. The dashboard allows the admin to manage categories, moderate comments, and monitor user interactions, ensuring high-quality content and user engagement.
+.
